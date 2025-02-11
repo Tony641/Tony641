@@ -15,14 +15,14 @@
 
 ## 🌱 Currently Learning  
 - Advanced AI & Reinforcement Learning  
-- Flutter App Development with Bloc & Firebase  
+- Flutter App Development   
 - XGBoost for High-Accuracy Predictions  
 - Cloud Data Engineering (AWS, GCP, Spark)  
 - Advanced Graphic Design & Motion Graphics  
 
 ## 💞️ Looking to Collaborate On  
-- AI-driven Healthcare Access Apps  
-- E-commerce Platforms in Flutter & Python  
+- AI-driven Apps  
+- Full stack development projects   
 - Data Science, Machine Learning, and Data Engineering Projects  
 - UI/UX & Graphic Design for Apps and Websites  
 
